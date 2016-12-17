@@ -2,10 +2,14 @@
 layout: about
 ---
 
-Hello, my name is Micah Cowell. I am a self proclaimed web developer who likes the internet, hip hop, and fancy yo-yos.
+中年男子，现居重庆，育有一儿，养了条狗。
+偶尔写写，吐槽下生活，分享点自己觉得有意思的东西。
 
-# What do you do?
-I make website and stuff. All the code I write is on my [Github](https://github.com/getmicah).
+# 联系方式
+[Email](mailto:zeroneven@gmail.com) 
+[Twitter](https://twitter.com/Zeove)
+[Wechat]
 
-# What programming languages do you use?
-When making websites I like using Javascript and Sass. I also like Python and making linux scripts.
+# 订阅博客
+[Feed]
+[Emailsub]
