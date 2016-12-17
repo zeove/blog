@@ -6,5 +6,8 @@ layout: about
 
 偶尔写写，吐槽下生活，分享点自己觉得有意思的东西。
 
+[Email](mailto:zeroneven@gmail.com) 
 
-[Email](mailto:zeroneven@gmail.com)  [Subscribe](https://feedburner.google.com/fb/a/mailverify?uri=zeove/feed&amp;loc=zh_CN)
+[Subscribe](https://feedburner.google.com/fb/a/mailverify?uri=zeove/feed&amp;loc=zh_CN)
+*****
+My friends：（编辑中）
