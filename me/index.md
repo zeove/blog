@@ -7,5 +7,3 @@ layout: about
 偶尔写写，吐槽下生活，分享点自己觉得有意思的东西。
 
 [Email](mailto:zeroneven@gmail.com)  [Twitter](https://twitter.com/zeove)  [Instagram](https://www.instagram.com/zeove/)  [Subscribe](https://zeove.com/feed)
-
-<a href="{{ site.url }}/feed.xml">RSS订阅</a>  
