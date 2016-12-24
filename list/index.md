@@ -37,3 +37,7 @@ layout: list
 [Unlimited](https://www.amazon.cn/gp/kindle/ku/sign-up/ref=as_li_ss_tl?ie=UTF8&*Version*=1&*entries*=0&camp=536&creative=3132&linkCode=ur2&tag=zeove-23) - Kindle包月服务
 
 [Jiemian](http://www.jiemian.com/) - 新闻与资讯
+
+[Acfun](http://www.acfun.tv/) - 电影与视频
+
+[Bilibili](http://www.bilibili.com/) - 电影与视频
