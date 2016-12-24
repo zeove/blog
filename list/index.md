@@ -28,6 +28,8 @@ layout: list
 
 [Feedly](http://feedly.com/i/welcome) - RSS阅读
 
+[MarkdownPad](http://markdownpad.com/) - Markdown写作软件
+
 [Zealer](http://www.zealer.com/) - 数码测评
 
 [Kindle](https://www.amazon.cn/gp/product/B00QJDOLIO/ref=as_li_ss_tl?ie=UTF8&camp=536&creative=3132&creativeASIN=B00QJDOLIO&linkCode=as2&tag=zeove-23) - 电子阅读器
