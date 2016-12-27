@@ -43,3 +43,5 @@ layout: list
 [Bilibili](http://www.bilibili.com/) - 电影与视频
 
 [TinyPNG](https://tinypng.com/) - 图片压缩
+
+[Gtmetrix](https://gtmetrix.com/) - 网站测速
