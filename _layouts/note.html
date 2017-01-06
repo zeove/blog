@@ -2,20 +2,20 @@
 layout: default
 ---
 
-<div class="post">
-	<div class="post__back">
+<div class="note">
+	<div class="note__back">
     	<a href="/">&lt;-- home</a>
     </div>
-    <div class="post__title">
+    <div class="note__title">
     	<h1>{{ page.title }}</h1>
     </div>
-    <div class="post__date">
+    <div class="note__date">
     	<p>{{ page.date | date: '%B %-d, %Y' }}</p>
     </div>
-    <div class="post__meta">
+    <div class="note__meta">
     	<p>{{ tags_content }}</p>
     </div>
-    <div class="post__content"?>
+    <div class="note__content"?>
         {{ content }}
     </div>
 </div>
