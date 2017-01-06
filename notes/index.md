@@ -24,7 +24,8 @@ layout: notes
 </tr>
 </table>
 
-| 1 | 2 | 3 |
-| --- |:---:| ---:|
-| aaa | bbbbbb | c |
-| aaaaaa | b | ccc |
+|Tables         | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
