@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<div class="notes">
+	<div class="notes__back">
+    	<a href="/">&lt;-- home</a>
+    </div>
+    <div class="notes__title">
+    	<h1>{{ page.title }}</h1>
+    </div>
+    <div class="notes__date">
+    	<p>{{ page.date | date: '%B %-d, %Y' }}</p>
+    </div>
+    <div class="notes__meta">
+    	<p>{{ tags_content }}</p>
+    </div>
+    <div class="notes__content"?>
+        {{ content }}
+    </div>
+</div>
