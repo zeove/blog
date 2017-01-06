@@ -1,5 +1,5 @@
 ---
-layout: notes
+layout: default
 ---
 
 <h1 class="about__title">Course:</h1>
