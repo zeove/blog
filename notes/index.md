@@ -2,7 +2,6 @@
 layout: notes
 ---
 
-
 <h1 class="about__title">Course:</h1>
 <table width="400" border="50">
 <tr>
