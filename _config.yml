@@ -1,6 +1,8 @@
 # Blog settings
 permalink: /blog/:title
 
+# Notes settings
+permalink: /note/:title
 
 # My variables
 name: Zeove'blog
