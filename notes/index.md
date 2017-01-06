@@ -23,3 +23,8 @@ layout: notes
     <td><a href="http://chenfm.com/" target="_blank">逗号</a></td>
 </tr>
 </table>
+
+| 1 | 2 | 3 |
+| --- |:---:| ---:|
+| aaa | bbbbbb | c |
+| aaaaaa | b | ccc |
