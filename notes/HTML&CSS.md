@@ -1,5 +1,4 @@
 ---
-lay out: notes
 title: HTML & CSS
 ---
 
