@@ -2,9 +2,9 @@
 layout: favo
 ---
 
-### Hip Hip Hurrah! Artists' Party at Skagen - 1888
-
 ![Hip Hip Hurrah! Artists' Party at Skagen](https://c7.staticflickr.com/1/353/31746229950_917cc15b26.jpg) 
+
+**Hip Hip Hurrah! Artists' Party at Skagen - 1888**
 
 Around 1870, growing numbers of Scandinavian (Danish, Finnish, Norwegian and Swedish) artists took to visiting Paris to attended the school of Léon Bonnat, the Académie Julian, or the Académie Colarossi. Some of them were also tutored by Jean-Léon Gérôme.
 
@@ -14,9 +14,9 @@ Hip, Hip, Hurrah! is typical of the work produced by the Skagen Painters; very m
 
 ---
 
-### Ice Skating - 1615
-
 ![Ice Skating](https://c1.staticflickr.com/1/397/31972872112_e81275b387.jpg)
+
+**Ice Skating - 1615**
 
 Hendrick Avercamp was a Dutch painter. As one of the first landscape painters of the 17th-century Dutch school, he specialized in painting the Netherlands in winter—his work gaining international reknown. Avercamp's paintings are colorful and lively, with carefully crafted images of the people in the landscape. Many of his paintings feature people ice skating on frozen lakes.
 
@@ -26,9 +26,9 @@ Avercamp probably painted in his studio on the basis of sketches he had made in 
 
 ---
 
-### Self-Portrait - 1783
-
 ![Self-Portrait](https://c2.staticflickr.com/1/337/32121361225_be01bef994.jpg)
+
+**Self-Portrait - 1783**
 
 Marie-Gabrielle Capet was a French Neoclassical painter. She excelled as a portrait painter, and her works include oil paintings, watercolours and miniatures.
 
@@ -38,9 +38,9 @@ Capet's name appeared as one of the 21 women who displayed works in the Salon of
 
 ---
 
-### Magpie - 1869
-
 ![Magpie](https://c5.staticflickr.com/6/5482/32082456916_0578418a05.jpg)
+
+**Magpie - 1869**
 
 The Magpie is considered one of Monet's best snowscape paintings of approximately 140 snowscapes painted by the artist. It was created during the winter of 1868–1869 near the commune of Étretat in Normandy. Monet's patron, Louis Joachim Gaudibert, helped arrange a house in Étretat for Monet's girlfriend Camille Doncieux and their newborn son, allowing Monet to paint in relative comfort, surrounded by his family.
 
