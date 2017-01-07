@@ -14,7 +14,7 @@ Hip, Hip, Hurrah! is typical of the work produced by the Skagen Painters; very m
 
 ---
 
-![Ice Skating](https://c1.staticflickr.com/1/397/31972872112_e81275b387.jpg)
+![Ice Skating](https://c1.staticflickr.com/1/397/31972872112_e81275b387_z.jpg)
 
 **Ice Skating - 1615**
 
@@ -26,7 +26,7 @@ Avercamp probably painted in his studio on the basis of sketches he had made in 
 
 ---
 
-![Self-Portrait](https://c2.staticflickr.com/1/337/32121361225_be01bef994.jpg)
+![Self-Portrait](https://c2.staticflickr.com/1/337/32121361225_be01bef994_z.jpg)
 
 **Self-Portrait - 1783**
 
