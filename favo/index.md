@@ -2,9 +2,9 @@
 layout: favo
 ---
 
-![Hip Hip Hurrah! Artists' Party at Skagen](https://c7.staticflickr.com/1/353/31746229950_917cc15b26.jpg) 
-
 **Hip Hip Hurrah! Artists' Party at Skagen - 1888**
+
+![Hip Hip Hurrah! Artists' Party at Skagen](https://c7.staticflickr.com/1/353/31746229950_917cc15b26.jpg) 
 
 Around 1870, growing numbers of Scandinavian (Danish, Finnish, Norwegian and Swedish) artists took to visiting Paris to attended the school of Léon Bonnat, the Académie Julian, or the Académie Colarossi. Some of them were also tutored by Jean-Léon Gérôme.
 
@@ -14,9 +14,9 @@ Hip, Hip, Hurrah! is typical of the work produced by the Skagen Painters; very m
 
 ---
 
-![Ice Skating](https://c1.staticflickr.com/1/397/31972872112_e81275b387.jpg)
-
 **Ice Skating - 1615**
+
+![Ice Skating](https://c1.staticflickr.com/1/397/31972872112_e81275b387.jpg)
 
 Hendrick Avercamp was a Dutch painter. As one of the first landscape painters of the 17th-century Dutch school, he specialized in painting the Netherlands in winter—his work gaining international reknown. Avercamp's paintings are colorful and lively, with carefully crafted images of the people in the landscape. Many of his paintings feature people ice skating on frozen lakes.
 
