@@ -14,7 +14,7 @@ Hip, Hip, Hurrah! is typical of the work produced by the Skagen Painters; very m
 
 ---
 
-![Ice Skating](https://c1.staticflickr.com/1/397/31972872112_e81275b387_z.jpg)
+![Ice Skating](https://c1.staticflickr.com/1/397/31972872112_e81275b387.jpg)
 
 **Ice Skating - 1615**
 
