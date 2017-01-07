@@ -1,5 +1,5 @@
 ---
-lay out: post
+lay out: notes
 title: HTML & CSS
 ---
 
