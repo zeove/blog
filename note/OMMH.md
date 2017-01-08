@@ -1,5 +1,5 @@
 ---
-layout: favo
+layout: note
 ---
 
 ![Hip Hip Hurrah! Artists' Party at Skagen](https://c7.staticflickr.com/1/353/31746229950_917cc15b26.jpg) 
