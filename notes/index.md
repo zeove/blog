@@ -12,4 +12,4 @@ layout: notes
 
 **Collection：**
 
-[欧美名画](/note/ommh) [网络工具](/note/list)
+[欧美名画](/note/欧美名画) [网络工具](/note/网络工具)
