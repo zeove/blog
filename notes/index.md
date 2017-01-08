@@ -4,13 +4,12 @@ layout: notes
 
 **Course：**
 
-[HTML&CSS](https://tinypng.com/) [英语900句](https://gtmetrix.com/)
+[HTML&CSS](/note/2017)
 
 **Excerpt：**
 
-[大数据](https://tinypng.com/) [参与感](https://gtmetrix.com/)
+[大数据](https://tinypng.com/)
 
 **Collection：**
 
-[欧美名画](/note/2017) [中国瓷器](https://gtmetrix.com/)
-
+[欧美名画](/note/OMMH)
