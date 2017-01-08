@@ -12,5 +12,5 @@ layout: notes
 
 **Collection：**
 
-[欧美名画](/note/2017) [中国瓷器](https://gtmetrix.com/)
+[欧美名画](/_note/2017) [中国瓷器](https://gtmetrix.com/)
 
