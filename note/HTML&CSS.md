@@ -77,7 +77,7 @@ layout: note
 
 > Two spaces of indentation for CSS declarations.
 
-。 One line of spacing between CSS rules.
+> One line of spacing between CSS rules.
 
 ---
 
