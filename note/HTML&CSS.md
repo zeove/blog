@@ -44,17 +44,22 @@ layout: note
 2、The `<style>` element allows you to write CSS code within an HTML file.
 
 3、A CSS stylesheet can be linked to an HTML file using the `<link>` element, which requires three attributes:
-href - set equal to the path of the CSS file.
-type - set equal to text/css.
-rel - set equal to stylesheet.
+
+> `href` - set equal to the path of the CSS file.
+
+> `type` - set equal to text/css.
+
+> `rel` - set equal to stylesheet.
 
 ---
 
 1、A CSS selector targets an HTML element.
 
 2、CSS declarations style HTML elements. Declarations must contain the following two things:
-property - the property you want to style.
-value - the value for the property you are styling.
+
+> `property` - the property you want to style.
+
+> `value` - the value for the property you are styling.
 
 3、CSS declarations must end in a semicolon `(;)`
 
@@ -65,25 +70,55 @@ value - the value for the property you are styling.
 6、Comments keep code easy to read and allow you to experiment with new code without having to remove old code.
 
 7、CSS follows certain best practices for spacing and indentation:
-One line of spacing between a selector and the opening curly brace.
 
-No spacing between CSS declarations and the opening and closing curly braces of the CSS rule.
-Two spaces of indentation for CSS declarations.
-One line of spacing between CSS rules.
+> One line of spacing between a selector and the opening curly brace.
+
+> No spacing between CSS declarations and the opening and closing curly braces of the CSS rule.
+
+> Two spaces of indentation for CSS declarations.
+
+。 One line of spacing between CSS rules.
 
 ---
 
-1、Foreground color refers to the actual color of an element, styled with the color property.
+1、Foreground color refers to the actual color of an element, styled with the `color` property.
 
-2、Background color refers to the color behind an element, styled with the background-color property.
+2、Background color refers to the color behind an element, styled with the `background-color` property.
 
 3、There are 147 named colors available.
 
 4、RGB and hexadecimal colors offer over 16 million color possibilities.
+
 5、HSL is a new way of defining colors in CSS3.
 
-6、You can modify the opacity of a color with RGBa or HSLa colors.
+6、You can modify the opacity of a color with `RGBa` or `HSLa` colors.
 
 7、Not all browsers support newer CSS features, like opacity or HSL, so additional declarations should be made to support a wide audience of users.
 
 8、There are many color picker resources available on the Internet to help you select specific colors, as well as provide colors in different formats.
+
+---
+
+1、The `font-family` property changes the typeface of text.
+
+2、`Serif` fonts have extra details on the ends of each letter. `Sans-Serif` fonts do not.
+
+3、Fallback fonts are used when a certain font is not installed on a user's computer.
+
+4、Google Fonts provides free fonts that can be used in an HTML file with the `<link>` element.
+
+5、Font size can be specified using pixels, ems, or percentages.
+
+6、The vertical spacing between lines of text can be modified with the `line-spacing` property.
+
+7、The horizontal spacing between words can be modified with the `word-spacing` property.
+
+8、The spacing between letters, the kernel, can be modified with the `letter-spacing` property.
+
+9、Text can appear bold with the `font-weight` property.
+
+10、Text can appear in italics with the `font-style` property.
+
+11、Text can appear in all uppercase or all lowercase with the `text-transform` property.
+
+12、Text can be aligned with the `text-align` property.
