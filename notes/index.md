@@ -12,4 +12,4 @@ layout: notes
 <br>
 <h1 class="about__title">Collection:</h1>
 <br>
-[欧美名画](/note/欧美名画) [网络工具](/note/网络工具)
+[Painting](/note/painting) [List](/note/list)
