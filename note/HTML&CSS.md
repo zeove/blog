@@ -136,3 +136,15 @@ layout: note
 5、HTML elements can be labeled with multiple classes.
 
 6、Divs are one of the most commonly used HTML elements. Understanding how they are used is a critical skill for web developers.
+
+---
+
+1、All HTML elements are contained within a box.
+
+2、Boxes have two dimensions: a width and a height. These dimensions can be modified with the `width` and `height` properties.
+
+3、Width and height dimensions can be set using one of three units of measurement: pixels, ems, or percentages.
+
+4、A minimum and maximum width or height can be set for a box. This helps ensure that content remains legible when a user shrinks or expands their browser window.
+
+5、If an element's box becomes too small, the content may overflow. The overflowed content can be controlled with the `overflow` property.
