@@ -148,3 +148,17 @@ layout: note
 4、A minimum and maximum width or height can be set for a box. This helps ensure that content remains legible when a user shrinks or expands their browser window.
 
 5、If an element's box becomes too small, the content may overflow. The overflowed content can be controlled with the `overflow` property.
+
+---
+
+1、You can style the borders of an element's box.
+
+2、The `border-width` property allows you to set the thickness, or width, of a border.
+
+3、The `border-style` property allows you to change the style of border used.
+
+4、The `border-color` property allows you to change the color of a border.
+
+5、Individually setting the style, thickness, and color of a border can bloat code. It's more efficient to use the shorthand border property and specify all three properties at once, in that order.
+
+6、Box borders don't have to be square. Their corners can be rounded with the `border-radius` property.
