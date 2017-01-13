@@ -2,6 +2,115 @@
 layout: note
 ---
 
+![Bridge of Glory](https://c1.staticflickr.com/1/764/31884477230_ea2fa3bfb5.jpg) 
+
+**Bridge of Glory - 1923**
+
+Nicholas Roerich was a Russian painter, writer, archaeologist, theosophist, perceived by some in Russia as an enlightener, philosopher, and public figure, who in his youth was influenced by a movement in Russian society around the occult. He was interested in hypnosis and other spiritual practices and his paintings are said to have hypnotic expression.
+
+Born in Saint Petersburg, Russia, to a well-to-do notary public of Baltic German ancestry and a Russian mother, he lived in various places around the world until his death in Naggar, Himachal Pradesh, India. Trained as an artist and a lawyer, his main interests were literature, philosophy, archaeology, and especially art. Roerich was a dedicated activist for the cause of preserving art and architecture during times of war. He earned several nominations for the Nobel Peace Prize long list.
+
+Today, Roerich is best known for his contributions to art and culture. In his Banner of Peace address of 1931 he said: “Culture is the accumulation of highest Bliss, highest Beauty, highest Knowledge.”
+
+Four years later his brainchild, the Roerich Pact, was signed into action at the White House in 1935. The document declares that “treasures of culture” should be”respected and protected in time of war.”
+
+---
+
+![The Sheepfold, Moonlight](https://c1.staticflickr.com/1/430/32111245752_db4e7b9bae.jpg) 
+
+**The Sheepfold, Moonlight - 1856-1860**
+
+In this nocturnal scene, the waning moon throws a mysterious light across the plain extending between the villages of Barbizon and Chailly.
+
+Millet was recorded as saying of the solitary shepherd: Oh, how I wish I could make those who see my work feel the splendors and terrors of the night! One ought to be able to make people hear the songs, the silences, and murmurings of the air. They should feel the infinite.
+
+Although educated and trained in Paris, Millet was born into a peasant family from the Normandy region of northern France. He drew on this background, specializing in scenes of peasant life. An outbreak of cholera in 1849 forced Millet to leave Paris with his family and settle in the village of Barbizon, where he became acquainted with the Barbizon artists Théodore Rousseau, Virgile Narcisse Diaz de la Peña, Constant Troyon, and Antoine-Louis Barye.
+
+---
+
+![Sunflowers](https://c1.staticflickr.com/1/401/31419160454_68223d7d51.jpg) 
+
+**Sunflowers - 1887**
+
+Vincent van Gogh painted many floral still lifes over the course of his short life as an artist. About a dozen of these depict sunflowers. Four of these works – including our painting – don’t show the flowers in full bloom in a vase, but, rather, lying wilted on a table or on the floor. Just like poor people scarred by life or old, worn out shoes, the artist considered wilted flowers worthy of being painted.
+
+Even though the flowers are wilted, the artist presents them in an extremely lively, vibrant and dynamic way. From the respective center of the two blossoms, different-colored brushstrokes spread across the canvas in a swirling motion. By applying the paint in rhythmic brushstrokes, the artist has completely dissolved the base on which the two flowers are lying. This makes the painting appear flat and no longer three-dimensional.
+
+As with almost all of van Gogh’s work, the colors and the application of color express the inner tension of the artist while painting.
+
+Out of financial necessity, van Gogh painted over some of his works. An x-ray of our painting revealed the outlines of the portrait of a man underneath the sunflowers, probably a self-portrait.
+
+Van Gogh had given the painting to his artist friend Paul Gauguin. From Gauguin, both paintings came into the possession of the art dealer Ambroise Vollard, who sold them to the painter Edgar Degas. When the private collection of Degas was liquidated, the painting came into the possession of the Hahnloser family in the early 1970s, who eventually donated it to the art museum in Bern.
+
+---
+
+![The Pine Tree At St. Tropez](https://c1.staticflickr.com/1/522/31450339433_53004ba57b.jpg) 
+
+**The Pine Tree At St. Tropez - 1909**
+
+The centre of the painting depicts a tree with a colourful crown which takes up the majority of the canvas. Placed against a background of a pale blue sky, the crown seems to make everything in its immediate surroundings subservient to its movements. Instead of using precise brushstrokes of singular form, Signac complicates the pictorial space and gives its formal flexibility which manifests in the apparent movement of the the branches. The work is divisionist in style and has a tangibly mosaic-like quality, with the fluctuating and yet still harmonious colour interplay splitting up the image into clusters of varying visual temperature. The artificial colour palette used by Signac conveys the impression of the emotional experience of the tree rather than the visual experience, and through subverting traditional colour use the viewer is momentarily transported into Signac's emotional mindset (in relation to the tree) and simultaneously coaxed into sharing it for a few brief moments.
+
+---
+
+![A Flat Calm on a High-Prowed Boat](https://c1.staticflickr.com/1/365/32222122456_22d9153b53.jpg) 
+
+**A Flat Calm on a High-Prowed Boat - 1925**
+
+In 1920, in office with the portfolio of Minister of Munitions, he sent five paintings to be exhibited in Paris, under the hidden name of Charles Morin, where they would be sold for £30. Recognition would come under a new pseudonym, Mr.Winter, when the Royal Academy, in 1947, conferred the title of Honorary Academician Extraordinary, after two pieces were accepted.
+
+But not always have canvas and painters played a happy part in politics. First of all, for those who regard politics and history as boring, go have a look at Józef Piłsudski’s crazy biography - this Polish hero had a life as imaginative as Jack London’s tales. In one episode, after refusing running for Presidency, his friend and elected president Narutowicz was assassinated. The killer was Eligiusz Niewiadomski, a Modernist Painter, who initially intended to murder Piłsudski. The Painter shot the newly elected president during the opening of an art exhibition, at the Zachęta Art Gallery.
+
+Churchill once said: “Success consists of going from failure to failure without loss of enthusiasm”, a great advice in favour of humanity, if only a young frustrated painter kept on painting after being refused, two times, admission in the Academy of Fine Arts Vienna…
+
+---
+
+![Cherry Time](https://c1.staticflickr.com/1/411/31419154914_0c31726b0f_z.jpg) 
+
+**Cherry Time - 1912**
+
+Helen Galloway McNicoll was a Canadian impressionist painter. Born in Ontario and raised in Montreal, Helen Galloway McNicoll was raised in a wealthy upper-middle-class family. She contracted scarlet fever at the age of two which left her deaf for the remainder of her life. Her family, intent on Helen remaining an included member of society, brought in private tutors to teach her lip reading as well as her educational schooling and piano lessons. Helen's early life, though somewhat restrictive, was not isolated. As well as the tutors, she became a member of a local deaf community. With her private education and lip reading skill she was able to attend art schools in her adulthood with all the other young artists of her day.
+
+She began her art education in Montreal, attending art classes at the AAM, the Art Association of Montreal where she studies for two years. From Montreal, Helen travelled to England to attend a few of the prominent and experimental art schools practicing there at the time. After England, Helen lived briefly in France to gain real formal instructions in the visual arts. Inspired by her time there, she opened up a small studio where she painted continuously. In 1906, Helen returned to England to continue her art studies at Julius Olsson's School of Landscape and Sea Painting in St. Ives, Cornwall. This school was also the liberating spirit that helped another Canadian Impressionist, Emily Carr, find happiness and fulfillment in her art, as Helen McNicoll found in hers. She died at the age of 35.
+
+---
+
+![Metchosin](https://c1.staticflickr.com/1/339/31450335253_e185341b09.jpg) 
+
+**Metchosin - 1935**
+
+Emily Carr was a Canadian artist and writer heavily inspired by the Indigenous peoples of the Pacific Northwest Coast. One of the first painters in Canada to adopt a Modernist and Post-Impressionist painting style, Carr did not receive widespread recognition for her work until late in her life. As she matured, the subject matter of her painting shifted from aboriginal themes to landscapes—forest scenes in particular. As a writer, Carr was one of the earliest chroniclers of life in British Columbia. 
+
+Although influenced by the Group of Seven, especially Lawren Harris, the British Columbia-based Emily Carr developed a unique style of landscape painting that sets her apart from her contemporaries. Drawn initially to West Coast First Nations’ villages and totem poles for her subjects, in the 1930s Carr increasingly depicted the uninhabited landscape. Metchosin, the name of a district on Vancouver Island, includes two phenomena central to her practice: forest and sky. For Carr, nature was imbued with the divine, an idea communicated by representing trees as if they are reaching toward and swirling into the sky. Literally entwined with itself, Carr’s natural world is represented through a series of undulating movements, not a collection of static objects.
+
+---
+
+![Moose on the Head of Ram River](https://c1.staticflickr.com/1/522/32260400105_76157ea6ea.jpg) 
+
+**Moose on the Head of Ram River - 1940s**
+
+Carl Clemens Moritz Rungius was a leading American wildlife artist. He was born in Germany though he immigrated to the United States and he spent his career painting in the western United States and Canada. Active primarily in the first half of the 20th century, he earned a reputation as the most important big game painter and the first career wildlife artist in North America.
+
+In 1894, Rungius's Uncle Clemens Fulda invited him to hunt moose in Maine. Shortly after, in 1895, he traveled to Wyoming, which for him was an exotic experience. Open skies, mountain scenes and big game abounded. He made extensive studies of his trophies, and stalked game, which allowed him to gain a better understanding of the animals he painted. His summer in Wyoming persuaded Rugius that the United States would be his new home; “I painted from the collected material and later in the spring of 1896, I went back to Germany...My decision to cut all ties with the Old World and to live in America got good was due in no small part to this first Wyoming trip. For my heart was in the West.”
+
+Rungius was an avid sportsman, and spent more time in the wilderness than other artists. By direct observation in nature, he was able to gain an exceptional insight into the animals and their environment. The artist painted both landscapes and wildlife, often with both in a single picture. He situated animals in their natural environment, a practice that was new to painting in early twentieth century North America. His paintings are highly romanticized, and represent an Eden-like world without any signs of a human impact.
+
+---
+
+![Strolling along the Seashore](https://c1.staticflickr.com/1/654/31450374203_de1105bffe.jpg) 
+
+**Strolling along the Seashore - 1909**
+
+Painted during the summer of 1909 at the beach in Valencia, after Sorolla’s triumphant success in the United States, Strolling along the seashore is undoubtedly one of the artist’s most important works.
+
+The water and the sandy seashore, depicted here in long blue, purple and turquoise brushstrokes, become an abstract backdrop for the refined figures of the artist’s wife and daughter Maria.
+
+The suggestion of the breeze in their floating draperies intensifies the fleeting moment
+captured here by the artist, along with the use of a clearly photographic frame which cuts through Clotilde’s wide-brimmed straw hat and leaves an empty swathe of sand in the lower foreground.
+
+Although this is the same setting as in other Valencia seashore scenes, the tone here is very different. What we see here is a perfect example of the iconographic genre of the ‘elegant promenade’ with well-dressed bourgeois figures strolling along the seashore.
+
+---
+
 ![Steamboat Leaving Boulogne](https://c3.staticflickr.com/1/428/32057590842_ef500b6001.jpg) 
 
 **Steamboat Leaving Boulogne - 1864**
