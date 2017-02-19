@@ -50,4 +50,4 @@ layout: note
 
 [Disktool](http://www.disktool.cn/feature.html) - 分区助手
 
-
+[SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/download.html) - 电脑空间管理器
