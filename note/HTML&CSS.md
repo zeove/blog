@@ -176,3 +176,15 @@ layout: note
 5、The `display` changes the default behavior of HTML elements.
 
 6、The `visibility` property hides an element, but does not remove the amount of space the element takes up on the page. If you want to hide that element and remove the empty space, use the `display` property instead.
+
+---
+
+1、In the default box model, box dimensions are affected by border thickness and padding.
+
+2、The `box-sizing` property controls the box model used by the browser.
+
+3、The default value of the `box-sizing` property is `content-box`.
+
+4、The value for the new box model is `border-box`.
+
+5、The `border-box` model is not affected by border thickness or padding.
