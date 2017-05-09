@@ -1,5 +1,5 @@
 ---
-layout: notes
+layout: store
 ---
 
 很低调的开业了。
