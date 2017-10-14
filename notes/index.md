@@ -12,4 +12,4 @@ layout: notes
 <br>
 <h1 class="about__title">Collection:</h1>
 <br>
-[Painting](/note/painting) [List](/note/list)
+[List](/note/list)
