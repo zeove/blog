@@ -55,3 +55,5 @@ layout: list
 [BladeVPN](http://bladevpn.com/) - 免费的不限流量的科学上网工具
 
 [IObit Uninstaller](https://www.iobit.com/en/advanceduninstaller.php) - 软件卸载管理
+
+[Typora](https://typora.io/) - Markdown写作软件
