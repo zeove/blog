@@ -2,9 +2,9 @@
 layout: store
 ---
 
-淘宝店：[镜善镜美眼镜店]( https://shop209013148.taobao.com/)
-
 有赞店：[钦仓](https://shop18646986.youzan.com)
+
+淘宝店：[镜善镜美眼镜店]( https://shop209013148.taobao.com/)
 
 [![镜善镜美眼镜店](https://c1.staticflickr.com/5/4188/34491478176_6e4af623d7_z.jpg)](https://shop209013148.taobao.com/)
 
