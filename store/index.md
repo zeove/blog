@@ -2,11 +2,8 @@
 layout: store
 ---
 
-有赞店：[奥尔视眼镜](https://shop18646986.youzan.com)
-
-淘宝店：[镜善镜美眼镜店]( https://shop209013148.taobao.com/)
-
-[![镜善镜美眼镜店](https://c1.staticflickr.com/5/4188/34491478176_6e4af623d7_z.jpg)](https://shop209013148.taobao.com/)
+[奥尔视眼镜店](https://shop18646986.youzan.com)  关注公众号：Oursglasses
+![奥尔视眼镜](https://farm5.staticflickr.com/4579/38465805932_240a83e9d1_n.jpg)
 
 欧美发达国家的人们非常重视眼睛健康，每年都会到正规医院验光体检，而对国人而言，眼镜是可讲究可不讲究的东西，验光更是随意，殊不知眼睛是人体适应力最强的器官，你随便怎么对它，它都会慢慢适应，但是它已经受到了伤害，所以定期检查视力对保护眼睛非常重要。
 
