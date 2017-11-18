@@ -2,7 +2,7 @@
 layout: store
 ---
 
-有赞店：[钦仓](https://shop18646986.youzan.com)
+有赞店：[奥尔视眼镜](https://shop18646986.youzan.com)
 
 淘宝店：[镜善镜美眼镜店]( https://shop209013148.taobao.com/)
 
