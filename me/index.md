@@ -10,4 +10,4 @@ layout: about
 
 我有几个小圈子，感兴趣的话欢迎来玩：
 
-[鹅城博客圈](//shang.qq.com/wpa/qunwpa?idkey=73920872d9da23255ac33d7a0d628728233833e4cbb1a52f38aa430ab340acd7)  / [燃烧读书会](//shang.qq.com/wpa/qunwpa?idkey=a734b57cb027e975a4c131357770b8c90e508be8f8ca807a8da5f1486722280b) / [黑莓俱乐部](//shang.qq.com/wpa/qunwpa?idkey=4de21a7e82c4bc636aa3d5e4be4ede85aafe15cf81fde6fb6ba0c24da42bd877) / [游戏爱好者](//shang.qq.com/wpa/qunwpa?idkey=d5f8611b4b3e3e015893b76c66b9c1a21ec06b7c69477684468893c713202363)
+[鹅城博客圈](//shang.qq.com/wpa/qunwpa?idkey=73920872d9da23255ac33d7a0d628728233833e4cbb1a52f38aa430ab340acd7)  / [燃烧读书会](//shang.qq.com/wpa/qunwpa?idkey=a734b57cb027e975a4c131357770b8c90e508be8f8ca807a8da5f1486722280b) / [黑莓俱乐部](//shang.qq.com/wpa/qunwpa?idkey=4de21a7e82c4bc636aa3d5e4be4ede85aafe15cf81fde6fb6ba0c24da42bd877) / [位智中国群](//shang.qq.com/wpa/qunwpa?idkey=5c7a42ccd2b2e3ea50a775f79304bc2e8f8bd94c07fa3d3bc8b5a1caa9579315)
