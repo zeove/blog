@@ -2,7 +2,7 @@
 layout: store
 ---
 
-![奥尔视眼镜](https://farm5.staticflickr.com/4579/38465805932_240a83e9d1_q.jpg)
+![奥尔视眼镜](https://farm5.staticflickr.com/4579/38465805932_240a83e9d1_n.jpg)
 
 微信扫码关注服务号：Oursglasses，也可直接访问[奥尔视眼镜店](https://shop18646986.youzan.com)。
 
