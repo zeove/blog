@@ -59,3 +59,13 @@ layout: list
 [Typora](https://typora.io/) - Markdown写作软件
 
 [MultCloud](https://www.multcloud.com/sign?method=up&tc=51feffd6604f761701605278c6a40374) - 云存储转移管理平台
+
+[Minghuaji](http://minghuaji.dpm.org.cn/) - 故宫名画记
+
+[Neets](http://neets.cc/) - 私人追剧管家
+
+[Webtorrent](https://webtorrent.io/) - BT在线播放
+
+[Clipconverter](http://www.clipconverter.cc/) - Youtube视频下载
+
+[Sketchfab](https://sketchfab.com/britishmuseum) - 3D打印素材库
