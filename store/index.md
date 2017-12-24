@@ -2,7 +2,7 @@
 layout: store
 ---
 
-![奥尔视眼镜](https://farm5.staticflickr.com/4525/27069780629_6df45cc4ae.jpg)
+![奥尔视眼镜](https://farm5.staticflickr.com/4525/27069780629_6df45cc4ae.jpg)![微信小店码](https://raw.githubusercontent.com/zeove/zeove.github.io/master/picture/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E5%BA%97%E7%A0%81.png)
 
 专注配镜服务，微信扫码关注服务号：Oursglasses，可直接购买。
 
