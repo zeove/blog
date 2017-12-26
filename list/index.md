@@ -69,3 +69,15 @@ layout: list
 [Clipconverter](http://www.clipconverter.cc/) - Youtube视频下载
 
 [Sketchfab](https://sketchfab.com/britishmuseum) - 3D打印素材库
+
+[《HTML & CSS》](/note/HTML&CSS)
+
+ [《思考，快与慢》](/note/思考，快与慢)
+
+[《参与感》](/note/参与感)
+
+ [《万万没想到》](/note/万万没想到)
+
+ [《周鸿祎自述》](/note/周鸿祎自述)
+
+ [《大数据时代》](/note/大数据时代)
