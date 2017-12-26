@@ -2,6 +2,8 @@
   url: /me
 - title: notes
   url: /notes
+- title: mark
+  url: /mark
 - title: list
   url: /list
 - title: store
