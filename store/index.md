@@ -1,5 +1,5 @@
 ---
-layout: mark
+layout: list
 ---
 
 ![奥尔视眼镜](https://farm5.staticflickr.com/4525/27069780629_6df45cc4ae.jpg)
