@@ -1,5 +1,5 @@
 ---
-layout: mark
+layout: list
 ---
 
  [《思考，快与慢》](/note/思考，快与慢)
