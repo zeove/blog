@@ -1,8 +1,8 @@
 - title: about
   url: /me
-- title: book
-  url: /book
 - title: list
   url: /list
+- title: notes
+  url: /notes
 - title: store
   url: /store
