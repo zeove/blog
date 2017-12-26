@@ -16,4 +16,4 @@ layout: store
 
 扫码进入我的小程序吧：
 
-![微信小店码](https://raw.githubusercontent.com/zeove/zeove.github.io/master/picture/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E5%BA%97%E7%A0%81.png)
+![微信小店码](https://raw.githubusercontent.com/zeove/zeove.github.io/master/assets/img/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E5%BA%97%E7%A0%81.png)
