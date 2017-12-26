@@ -1,5 +1,5 @@
 ---
-layout: list
+layout: mark
 ---
 
 [Dropbox](https://db.tt/h5ZzHAqI) - 云存储及同步
