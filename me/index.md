@@ -6,7 +6,7 @@ layout: about
 
 偶尔写写博客，吐槽下生活，分享点自己觉得有意思的东西。
 
-[Email](mailto:zeroneven@gmail.com)  [Twitter](https://twitter.com/zeove)  [Instagram](https://www.instagram.com/zeove/)  [Telegram](https://telegram.me/zeove)  [Rss](https://zeove.com/feed)
+[Email](mailto:zeroneven@gmail.com) [Twitter](https://twitter.com/zeove) [Instagram](https://www.instagram.com/zeove/) [Telegram](https://telegram.me/zeove) [Rss](https://zeove.com/feed)
 
 我有几个小圈子，感兴趣的话欢迎来玩：
 
