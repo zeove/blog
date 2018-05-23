@@ -69,3 +69,7 @@ layout: list
 [Clipconverter](http://www.clipconverter.cc/) - Youtube视频下载
 
 [Sketchfab](https://sketchfab.com/britishmuseum) - 3D打印素材库
+
+[ProcessOn](https://www.processon.com/i/5b04dd10e4b05615d256db5a) - 在线制作思维导图
+
+[大数据导航](http://hao.199it.com/) - 各种大数据查询工具
