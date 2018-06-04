@@ -2,6 +2,8 @@
 layout: list
 ---
 
+[Evernote](https://app.yinxiang.com/referral/Registration.action?sig=da1dc01abe7818d525f29be043d40da2fb316c9cd36d66a28e81f430b51ce246&uid=13096715) - 强大的知识管理应用
+
 [Dropbox](https://db.tt/h5ZzHAqI) - 云存储及同步
 
 [Flickr](https://flickr.com) - 网络相册及照片分享
