@@ -10,6 +10,6 @@ layout: deal
 
 装逼结束，来点干货，下面是我目前主做的两个平台，欢迎扫码加入我的团队。我的新媒体公司也即将启动，现在成为我的团队，会有巨额流量导给你们，甚至可以推你做网红，想不想出境？想不想出名？想不想成为李现？那来吧，扫一下：
 
-![weidaigou](https://github.com/zeove/zeove.github.io/blob/master/pic/weidaigou.png?raw=true)
+![weidaigou](<https://raw.githubusercontent.com/zeove/zeove.github.io/master/pic/weidaigou.png>)
 
 ![aikucun](https://raw.githubusercontent.com/zeove/zeove.github.io/master/pic/aikucun.jpg)
