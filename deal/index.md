@@ -18,6 +18,6 @@ layout: deal
 
 
 
-或者来我的另一个私域电商小卖场，看看底价模式的专柜品牌底价出货，不要紧，看看不要钱。
+或者来我的另一个私域电商小卖场买买品牌底价货，不要紧，看看不要钱。
 
 ![youpin](https://raw.githubusercontent.com/zeove/zeove.github.io/master/pic/youpin.jpg)
