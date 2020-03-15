@@ -1,5 +1,5 @@
 ---
-layout: list
+layout: notes
 ---
 
 [《HTML&CSS》](/note/HTML&CSS)
