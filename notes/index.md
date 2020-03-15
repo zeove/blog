@@ -1,9 +1,7 @@
 ---
 layout: notes
 ---
-
 <br/>
-
 [《HTML&CSS》](/note/HTML&CSS)
 
 [《思考，快与慢》](/note/思考，快与慢)
