@@ -54,6 +54,8 @@ layout: list
 
 [Webtorrent](https://webtorrent.io/) - BT在线播放
 
+[Snipaste](https://www.snipaste.com/) - 截图神器
+
 [Clipconverter](http://www.clipconverter.cc/) - Youtube视频下载
 
 [Sketchfab](https://sketchfab.com/britishmuseum) - 3D打印素材库
