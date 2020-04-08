@@ -4,6 +4,8 @@ layout: list
 
 [Payoneer](https://share.payoneer.com/nav/xYKH6Y2vRo77ysK2gtjEREjnhd0kxJ2dGXeQVZUz-u0oll2BAkohihLOxGhnyJyeaFc911NzJUMV3O19a1N5lA2) - 海外收款利器
 
+[Iclick](http://www.iclick.cn/iclick/?m=index&a=signup&incode=%2BUKIwI%2F6Oz33DIaS9GwvyQ%3D%3D) - 艾瑞调研网赚
+
 [Evernote](https://app.yinxiang.com/referral/Registration.action?sig=da1dc01abe7818d525f29be043d40da2fb316c9cd36d66a28e81f430b51ce246&uid=13096715) - 强大的知识管理应用
 
 [Dropbox](https://db.tt/h5ZzHAqI) - 云存储及同步
